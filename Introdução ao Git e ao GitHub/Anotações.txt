@@ -4,3 +4,4 @@ O Git Bash é um terminal estendido para otimizar o uso do Git.
 Comandos Aprendidos
 git add . = usado para enviar as informações para o GitHub
 git commit -m "incluir comentário detalhado"
+git push origin main
